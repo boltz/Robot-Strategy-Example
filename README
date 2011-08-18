@@ -1,12 +1,16 @@
-This repository contains a presenation that did called:
+This repository contains a presentation that did called:
 
 "Understanding the Underlying Patterns of MVC"
 
-It uses the jQuery Presentation Plugin by Trevor Davis for the slides and borrows images from the Head First: Design Patterns book. All images belong to their respective owners.
+It uses the jQuery Presentation Plugin by Trevor Davis for the slides 
+and borrows images from the Head First: Design Patterns book. 
+All images belong to their respective owners.
 
-To explain the strategy pattern which I was having a hard time visualizing I wrote a "Robot Fight" program.
+To explain the strategy pattern which I was having a hard time visualizing I wrote a
+"Robot Fight" program.
 
-If you would like to see it in action you can installed the code on your own ColdFusion server or http://cfmumbojumbo.com/cf/codedemos/robotstrategy/robotDemo.cfm 
+If you would like to see it in action you can installed the code on your own ColdFusion server 
+or http://cfmumbojumbo.com/cf/codedemos/robotstrategy/robotDemo.cfm 
 
 
 
