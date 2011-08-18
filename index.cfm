@@ -15,18 +15,21 @@
     </div>
     
     <div id="content">
-    	<div id="slides">
-         <div class="slide">
-         <h2>Understanding the Principles of the MVC Pattern</h2>
- 			<p>
- 			&nbsp;
-			</p>
-         </div>
+    <div id="slides">
+         
       <div id="slides">
-      	<div class="slide">
-      	<h2>What is a Design Pattern?</h2>	
-			
+      	
+		<div class="slide">
+      	<h2>Who am I?</h2>	
+			<ul>
+				<li><img src="./images/timMug.png" width=100 height=100>Tim Cunningham: Vice-President IDMI</li>
+				<li>Blog: CFMumboJumbo.com</li>
+				<li>Twitter: timcunningham71</li>
+				<li>Adobe Community Professional</li>
+				<li>The "BrewFather"</li>
+			</ul>
       	</div>
+		
 		<div class="slide">
       	<h2>What is a Design Pattern?</h2>	
 			<ul>
