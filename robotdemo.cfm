@@ -1,0 +1,1 @@
+﻿<cflocation url="./robots/strategy/default.cfm">
