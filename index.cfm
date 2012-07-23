@@ -2,7 +2,7 @@
 	<!DOCTYPE html>
 <html class="no-js">
   <head>
-    <title>Understanding the Principles of the MVC Pattern</title>
+    <title>Getting Started with MVC Pattern in ColdBox</title>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <script type="text/javascript">(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script> 
     <link href="stylesheets/screen.css" type="text/css" rel="stylesheet" media="Screen,projection" />
@@ -10,7 +10,7 @@
   <body>
     <div id="header">
       <div class="container">
-        <h1>Understanding the Principles of the MVC Pattern</h1>
+        <h1>Getting Started with MVC Pattern in ColdBox</h1>
       </div>
     </div>
     
@@ -26,7 +26,17 @@
 				<li>Blog: CFMumboJumbo.com</li>
 				<li>Twitter: timcunningham71</li>
 				<li>Adobe Community Professional</li>
+				<li>https://github.com/boltz/Robot-Strategy-Example</li>
 				<li>The "BrewFather"</li>
+			</ul>
+      	</div>
+		
+		<div class="slide">
+      	<h2>How to install ColdBox?</h2>	
+			<ul>
+				<li>Download from "The Githubs"</li>
+				<li>Put in root directory of IIS or Apache</li>
+				<li>Conquer the world</li>
 			</ul>
       	</div>
 		
@@ -73,7 +83,9 @@
 			<ul>
 				<li>How stuff looks (View) <img src="./images/view-makeup.jpg"  width="66" height="100"></li>	
 				<li>How stuff works (Model)<img src="./images/brain.png"  width="66" height="43"></li>
-				<li>Interpreting how to react to change (Controller)<img src="./images/Phone-Operator.png"  width="87.5" height="75.5"></li>
+				<li>Interpreting how to react to change (Controller)<img src="./images/Phone-Operator.png"  width="175" height="151"><br>
+				 "the controller is called. It pulls the data needed from one or more services and passes to the desired view. It basically acts as the glue between the model(services) and the view(layout)." -Steven Nieland
+				</li>
 			</ul>
 			<h0><img src="./images/timMug.png" width=50 height=50>(My Definition as of: #dateformat(now(), "short")# #timeformat(now(), "long")#)</h0>
  		  </p>
@@ -87,6 +99,7 @@
           <p>
 			<ul>
 				<li>Model holds all the "Business Logic"</li>
+				<li>"the model is the sum total of the services,gateways and data persistence components" - <a href="http://www.bennadel.com/blog/2379-A-Better-Understanding-Of-MVC-Model-View-Controller-Thanks-To-Steven-Neiland.htm">Steven Neiland</a></li>
 				<li>Defines things. What is an image? What is a gallery etc? What is a Reddit call?</li>
 				<li>No Output</li>
 				<li>No Application Logic.</li>
@@ -321,7 +334,7 @@
     
     <div id="footer">
       <div class="container">
-      <a href="http://cfmumbojumbo.com/">Tim Cunningham 2011</a>
+      <a href="http://cfmumbojumbo.com/">Tim Cunningham 2012</a>
       </div>
     </div>
     <script type="text/javascript" src="scripts/jquery.js"></script>
